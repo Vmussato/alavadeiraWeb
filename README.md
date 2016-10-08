@@ -1,2 +1,2 @@
-# alavadeiraApp
-Aplicativo da Alavadeira
+# alavadeiraWeb
+WebApp Alavadeira
